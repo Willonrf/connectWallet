@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Dai Stablecoin",
+        "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+        "symbol": "DAI",
+        "decimals": 18
+    },
+    {
+        "name": "Ethereum",
+        "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    {
+        "name": "Feeder finance",
+        "address": "0x67d66e8Ec1Fd25d98B3Ccd3B19B7dc4b4b7fC493",
+        "symbol": "FEED",
+        "decimals": 18
+    }
+]

@@ -1,0 +1,42 @@
+:root{
+  --gray: #e0e0e0;
+}
+*{
+  margin: 0;
+  padding: 0;
+  background-color: var(--gray);
+}
+
+header{
+  margin: 20px 20px 5px 20px;
+}
+
+hr{
+  margin: .3em;
+}
+button{ 
+  width: 10em;
+  height: 3em;
+}
+.dolar{ 
+  font-size: 1.5em;
+  font-weight: 600;
+}
+footer{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: #000;
+  background-color: #ebebeb;
+  text-align: center;
+  font-size: .5em;
+  font-weight: 300;
+}
+footer a{
+  width: 20em;
+  margin: 2em;
+}
+.select{
+  cursor: pointer;
+}
