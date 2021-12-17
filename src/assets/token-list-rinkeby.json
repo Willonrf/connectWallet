@@ -16,5 +16,53 @@
         "address": "0x67d66e8Ec1Fd25d98B3Ccd3B19B7dc4b4b7fC493",
         "symbol": "FEED",
         "decimals": 18
+    },
+    {
+        "name": "Thoreum",
+        "address": "0x580dE58c1BD593A43DaDcF0A739d504621817c05",
+        "symbol": "THOREUM",
+        "decimals": 18
+    },
+    {
+        "name": "gabecoin",
+        "address": "0x6e0BEF56b648b3eEBaE3808B8cBe7EFE8755AD9C",
+        "symbol": "GABECOIN",
+        "decimals": 18
+    },
+    {
+        "name": "Kabosu",
+        "address": "0x4A824eE819955A7D769e03fe36f9E0C3Bd3Aa60b",
+        "symbol": "KABOSU",
+        "decimals": 18
+    },
+    {
+        "name": "Shield Network",
+        "address": "0xf2E00684457de1a3C87361bC4BfE2DE92342306C",
+        "symbol": "SHIELDNET",
+        "decimals": 18
+    },
+    {
+        "name": "LassoCoin",
+        "address": "0x71441372df45090BB1A34E3320EeAcA93fb5CE4a",
+        "symbol": "LASSO",
+        "decimals": 18
+    },
+    {
+        "name": "BitRides",
+        "address": "0x8D8D1a66291fED163A321d268DeCa809C1E98Dd1",
+        "symbol": "RIDES",
+        "decimals": 18
+    },
+    {
+        "name": "Vikings Inu",
+        "address": "0xc3583C8328eCB4DC8751C7e4fe7bCC18E558A4b6",
+        "symbol": "VIKINGS",
+        "decimals": 18
+    },
+    {
+        "name": "CoinOne Token",
+        "address": "0x9628735017F1a985eBaaC0b203Efb9e8D3eD0Fef",
+        "symbol": "CONE",
+        "decimals": 18
     }
 ]

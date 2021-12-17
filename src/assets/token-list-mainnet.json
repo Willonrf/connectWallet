@@ -1,20 +1,20 @@
 [
     {
         "name": "Dai Stablecoin",
-        "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+        "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
         "symbol": "DAI",
         "decimals": 18
     },
     {
         "name": "Ethereum",
-        "address": "0x0000000000000000000000000000000000000000",
+        "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
         "symbol": "ETH",
         "decimals": 18
     },
     {
-        "name": "Wrapped Ether",
-        "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-        "symbol": "WETH",
+        "name": "Feeder finance",
+        "address": "0x67d66e8Ec1Fd25d98B3Ccd3B19B7dc4b4b7fC493",
+        "symbol": "FEED",
         "decimals": 18
     },
     {

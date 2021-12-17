@@ -1,28 +1,30 @@
-:root{
+:root {
   --gray: #e0e0e0;
 }
-*{
+* {
   margin: 0;
   padding: 0;
   background-color: var(--gray);
 }
 
-header{
+header {
   margin: 20px 20px 5px 20px;
 }
-
-hr{
-  margin: .3em;
+body{
+  overflow: hidden;
 }
-button{ 
+hr {
+  margin: 0.3em;
+}
+button {
   width: 10em;
   height: 3em;
 }
-.dolar{ 
+.dolar {
   font-size: 1.5em;
   font-weight: 600;
 }
-footer{
+footer {
   position: fixed;
   left: 0;
   bottom: 0;
@@ -30,13 +32,35 @@ footer{
   color: #000;
   background-color: #ebebeb;
   text-align: center;
-  font-size: .5em;
+  font-size: 0.5em;
   font-weight: 300;
 }
-footer a{
+footer a {
   width: 20em;
   margin: 2em;
 }
-.select{
+.select {
   cursor: pointer;
+}
+.btn-crypto {
+  padding: 0;
+}
+.scrollbar {
+  position: relative;
+  height: 500px;
+  overflow: auto;
+}
+.table-scroll {
+  display: block;
+}
+.full-height{
+  height: 95vh;
+  position: relative;
+}
+.center{
+  position: absolute;
+  top: 45%;
+  right: 40%;
+  z-index: 1000px;
+  color: #000;
 }
